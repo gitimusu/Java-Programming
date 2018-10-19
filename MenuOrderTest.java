@@ -4,8 +4,8 @@ public class MenuOrderTest {
 	public static void main(String[] args){
 		System.out.println("==========================");
 		System.out.println("Major: Computer ENG.");
-		System.out.println("ID: 1415001");
-		System.out.println("Name: Ahmad Z. Muslimat");
+		System.out.println("ID: *******");
+		System.out.println("Name: Dan");
 		System.out.println("==========================");
 		System.out.println(" ");
 		Scanner Keyboard = new Scanner(System.in);
