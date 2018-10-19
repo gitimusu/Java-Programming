@@ -46,8 +46,8 @@ public class TestDiceGame {
 		DiceGame d = new DiceGame(1);	// create a diceGame object with 1 integer as argument.
 		System.out.println("==========================");
 		System.out.println("Major: Computer ENG.");
-		System.out.println("ID: 1415001");
-		System.out.println("Name: Ahmad Z. Muslimat");
+		System.out.println("ID: ******");
+		System.out.println("Name: Sky");
 		System.out.println("==========================");
 		System.out.println(" ");
 		
