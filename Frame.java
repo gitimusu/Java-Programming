@@ -8,8 +8,8 @@ public class HW_3_1 {
 	public static void main(String[] args){
 		Scanner kbd = new Scanner(System.in);
 		
-		System.out.println("Name: Ahmad Z. Muslimat");
-		System.out.println("ID:   1415001");
+		System.out.println("Name: Rosy");
+		System.out.println("ID:   *******");
 		System.out.println("Major: Computer Engineering");
 		System.out.print(" \n ");
 		
@@ -69,8 +69,8 @@ import java.util.Scanner;
 public class HW_3_2 {
 	public static void main(String[] args){
 
-		System.out.println("Name: Ahmad Z. Muslimat");
-		System.out.println("ID:   1415001");
+		System.out.println("Name: Iffy");
+		System.out.println("ID:   ******");
 		System.out.println("Major: Computer Engineering");
 		System.out.print(" \n ");
 
@@ -207,9 +207,9 @@ public class MyFrame extends JFrame implements ActionListener{
 public class MyFrameTest {
 	public static void main(String[] args) {
 		MyFrame v = new MyFrame();		// MyFrame object is created.
-		System.out.println("Name: Ahmad Z. Muslimat");
-		System.out.println("ID:   1415001");
-		System.out.println("Major: Computer Engineering");
+		System.out.println("Name: Oden");
+		System.out.println("ID:   *******");
+		System.out.println("Major: Civil Engineering");
 	}
 
 }
