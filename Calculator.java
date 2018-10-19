@@ -11,8 +11,8 @@ public class Calculator extends Frame implements ActionListener {
 	boolean newinput=true;
 
 	public static void main(String[] arg) {
-		System.out.println("Name: Ahmad Z. Muslimat");
-		System.out.println("ID: 1415001");
+		System.out.println("Name: Namu");
+		System.out.println("ID: *******");
 		new Calculator().setVisible(true);
 	}
 	public Calculator() {
